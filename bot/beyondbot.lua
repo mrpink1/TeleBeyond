@@ -291,10 +291,10 @@ function create_config( )
     "anti_spam",
     "killme"
     },
-    sudo_users = {157059515},--Sudo users
+    sudo_users = {62834077,204363060,270388153,229598206},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[😎Tele Beyond Final Version😎
+    about_text = [[😎BHH BOT Version 4😎
 ➡️An Administrator The PowerFull Bot Based On TeleSeed And Bilingual Written On Lua⬅️
 
 Source On GitHub :
@@ -303,17 +303,17 @@ Https://Github.com/solid021/TeleBeyond
 
 ▶️Sudo Users :
 
-Developer&Founder : @SoLiD021
+Developer&Founder : @Hacker44
 
-Developer&Manager : @MrHalix
+Developer&Manager : @rahbar_salibam
 
-Developer&Manager : @idivanmanheb
+Developer&Manager : @Hacker44
 
 #⃣Team Channel :
-✌️ @BeyondTeam ✌️
+✌️ @BHH_ch ✌️
 
 ❤️Special Thx To :
-Beyond Team
+BHH Team
 And All My Friends :D
 ]],
     help_text_realm = [[
